@@ -2,6 +2,7 @@
 
 importFrom("stats", optim, var, sd)
 importFrom("graphics", points, lines, axis, abline, legend)
+importFrom("quadprog", solve.QP)
 
 exportPattern("^[[:alpha:]]+")
 exportPattern("^[^\\.]")

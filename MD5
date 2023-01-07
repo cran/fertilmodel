@@ -1,10 +1,12 @@
-e315234beed227c2847cb87ff76df206 *DESCRIPTION
-5a23916bf964b1a57ba5eb0ca0d13700 *NAMESPACE
+aff05a354b0b4c773dfe53ee9b00ee5c *DESCRIPTION
+044490dfbce912094f5140f8209f2c65 *NAMESPACE
 0d6501612b0c0c345cff00559a3d2431 *R/Gama.R
 8c417ffc90b6eaabdcadffd107009a59 *R/Hadwiger.R
 45a6eb09e5cf08146721e5c6cc4f0923 *R/Model1.R
 036073ef1c20ae44c20d939f2331a222 *R/Model2.R
+04bb6ea6d0706b92308684d74aab0ad6 *R/comb.R
 71104694eaaa2b25c84fdd1c28a8eab0 *R/fertil.plot.R
-c05d8a4d492c85816ec9bdf1b0f063cb *man/Hadwiger.Rd
-86ba89281afaa2fc80b7e944b38af514 *man/fertil.plot.Rd
-6e17a69425bae2de645f9699c7a79d90 *man/fertilmodel-package.Rd
+25b10b98247d43b62c1cc9c1c87a4b38 *man/Hadwiger.Rd
+68f33f588736de34ca185acf45c34846 *man/comb.Rd
+5a9d466d72c47925ae99410b96537018 *man/fertil.plot.Rd
+305cbe2b07d63adb183ea4f872d4968c *man/fertilmodel-package.Rd

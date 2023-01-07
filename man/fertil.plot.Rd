@@ -1,4 +1,4 @@
-\name{Plot of the age-specific fertility rates and the estimated values from one or more fertility models}
+\name{fertil.plot}
 \alias{fertil.plot}
 
 \title{
@@ -43,7 +43,7 @@ R implementation and documentation: Michail Tsagris \email{mtsagris@uoc.gr}.
 }
 
 \seealso{
-\code{ \link{Hadwiger}
+\code{ \link{Hadwiger}, \link{comb}
 }
 }
 

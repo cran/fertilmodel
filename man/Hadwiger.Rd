@@ -1,4 +1,4 @@
-\name{Fertility models}
+\name{Hadwiger}
 \alias{Hadwiger}
 \alias{Gama}
 \alias{Model1}
@@ -85,7 +85,7 @@ R implementation and documentation: Michail Tsagris \email{mtsagris@uoc.gr}.
 }
 
 \seealso{
-\code{ \link{fertil.plot}
+\code{ \link{fertil.plot}, \link{comb}
 }
 }
 
