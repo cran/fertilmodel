@@ -10,8 +10,8 @@ Hadwiger <- function(rate, age) {
   mod1 <- optim( ini, fun, age = age, control = list(maxit = 1000) )
   mod2 <- optim( mod1$par, fun, age = age, control = list(maxit = 1000) )
   while ( mod1$value - mod2$value > 1e-7 ) {
-     mod1 <- mod2
-     mod2 <- optim( mod1$par, fun, age = age, control = list(maxit = 1000) )
+    mod1 <- mod2
+    mod2 <- optim( mod1$par, fun, age = age, control = list(maxit = 1000) )
   }
 
   para <- mod2$par

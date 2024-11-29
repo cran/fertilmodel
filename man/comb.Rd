@@ -2,11 +2,11 @@
 \alias{comb}
 
 \title{
-Plot of the age-specific fertility rates and the estimated values from one or more fertility models
+Model based average of the estimated values from two or more fertility models
 }
 
 \description{
-Plot of the age-specific fertility rates and the estimated values from one or more fertility models.
+Model based average of the estimated values from two or more fertility models.
 }
 
 \usage{

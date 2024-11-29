@@ -10,7 +10,7 @@ Plot of the age-specific fertility rates and the estimated values from one or mo
 }
 
 \usage{
-fertil.plot(rate, age, fit, grid = FALSE, names = NULL)
+fertil.plot(rate, age, fit = NULL, grid = FALSE, names = NULL)
 }
 
 \arguments{
